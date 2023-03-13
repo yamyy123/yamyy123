@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yameen0603" target="blank"><img src="https://img.shields.io/twitter/follow/yameen0603?logo=twitter&style=for-the-badge" alt="yameen0603" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DATA STRUCTURES**
 
 - 💬 Ask me about **Recent technology trends**
 
